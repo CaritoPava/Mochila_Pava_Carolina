@@ -1,0 +1,10 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Linux Torvald porque sea hacía muy complicado crear el sistema de archivos del kernel de linux sin tener un sistema de versionamiento óptimo que permitiera moverse entre los diferentes cambios y con varios desarrolladores.
+
+¿A quién pertenece actualmente Github y por qué?
+GitHub pertenece actualmente a Microsft, porque fue adquirida por estos como parte de su interés de consolidar una gran comunidad de desarrolladores al rededor de ellos y GitHub es el repositorio de código mas usado en el mundo
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, se puede hacer a través de Github Desktop que es la aplicación escritorio oficial de ellos
+
+Fin
